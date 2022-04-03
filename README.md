@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [description](#description)
-- [user story](#user-story)
-- [installation](#installation)
+- [Description](#description)
+- [User Story](#user-story)
+- [Installation](#installation)
 
 ## Description
 
