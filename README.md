@@ -26,6 +26,8 @@
 
 ## Screenshot
 
+![screenshot](https://github.com/AMDWorkspace/budget-tracker/blob/main/photos/Screen%20Shot%202022-04-03%20at%2011.18.38%20PM.png)
+
 ## Link to Deployed App
 
 - https://pwa-challenge-budget-tracker.herokuapp.com/
