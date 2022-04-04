@@ -18,6 +18,7 @@
 
 ## Installation
 
+- `git clone repo`
 - `npm install`
 - run `server.js` to live run localhost
 
