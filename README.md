@@ -5,6 +5,8 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
+- [Screenshot](#screenshot)
+- [Link to Deployed App](#link-to-deployed-app)
 
 ## Description
 
@@ -21,6 +23,8 @@
 - `git clone repo`
 - `npm install`
 - run `server.js` to live run localhost
+
+## Screenshot
 
 ## Link to Deployed App
 
